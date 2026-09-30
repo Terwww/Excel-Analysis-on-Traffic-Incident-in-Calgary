@@ -1,2 +1,4 @@
 # Excel-Analysis-on-Traffic-Incident-in-Calgary
 This is an excel analysis and dashboard for traffic incident cases in Calgary. All data are extracted from open source (open data Calgary and Weather Statistics Calgary)
+
+Traffic Incident data was downloaded from Open Data Calgary (60k+ rows) and data including date, quadrant etc were cleaned in Excel. Data of Calgary Weather was included to cross analyze the correlation between weather and number of traffic incident. Pivot charts for data visualization and interactive dashboard were also created for analysis. It is observed that SW quadrant had the lowest percentage of traffic incidents, whereas the EMS dispatch percentage was highest among the four quadrants, which may imply the need of EMS resources reallocation or modification of insurance premium strategies at a later stage after further investigation.
